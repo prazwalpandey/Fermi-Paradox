@@ -1,4 +1,4 @@
-# Are We Alon?
+# Are We Alone?
 
 ## Exploring The Fermi Paradox
 
